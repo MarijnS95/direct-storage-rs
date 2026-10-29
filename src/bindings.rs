@@ -730,7 +730,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageCompressionCodec,
                 IDStorageCompressionCodec_Vtbl,
-                0x84ef5121_9b43_4d03_b5c1_cc34606b262d
+                0x84EF5121_9B43_4D03_B5C1_CC34606B262D
             );
             windows_core::imp::interface_hierarchy!(
                 IDStorageCompressionCodec,
@@ -920,7 +920,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageCustomDecompressionQueue,
                 IDStorageCustomDecompressionQueue_Vtbl,
-                0x97179b2f_2c21_49ca_8291_4e1bf4a160df
+                0x97179B2F_2C21_49CA_8291_4E1BF4A160DF
             );
             windows_core::imp::interface_hierarchy!(
                 IDStorageCustomDecompressionQueue,
@@ -1071,7 +1071,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageCustomDecompressionQueue1,
                 IDStorageCustomDecompressionQueue1_Vtbl,
-                0x0d47c6c9_e61a_4706_93b4_68bfe3f4aa4a
+                0x0D47C6C9_E61A_4706_93B4_68BFE3F4AA4A
             );
             impl core::ops::Deref for IDStorageCustomDecompressionQueue1 {
                 type Target = IDStorageCustomDecompressionQueue;
@@ -1170,7 +1170,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageFactory,
                 IDStorageFactory_Vtbl,
-                0x6924ea0c_c3cd_4826_b10a_f64f4ed927c1
+                0x6924EA0C_C3CD_4826_B10A_F64F4ED927C1
             );
             windows_core::imp::interface_hierarchy!(IDStorageFactory, windows_core::IUnknown);
             impl IDStorageFactory {
@@ -1413,7 +1413,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageFile,
                 IDStorageFile_Vtbl,
-                0x5de95e7b_955a_4868_a73c_243b29f4b8da
+                0x5DE95E7B_955A_4868_A73C_243B29F4B8DA
             );
             windows_core::imp::interface_hierarchy!(IDStorageFile, windows_core::IUnknown);
             impl IDStorageFile {
@@ -1500,7 +1500,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageQueue,
                 IDStorageQueue_Vtbl,
-                0xcfdbd83f_9e06_4fda_8ea5_69042137f49b
+                0xCFDBD83F_9E06_4FDA_8EA5_69042137F49B
             );
             windows_core::imp::interface_hierarchy!(IDStorageQueue, windows_core::IUnknown);
             impl IDStorageQueue {
@@ -1787,7 +1787,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageQueue1,
                 IDStorageQueue1_Vtbl,
-                0xdd2f482c_5eff_41e8_9c9e_d2374b278128
+                0xDD2F482C_5EFF_41E8_9C9E_D2374B278128
             );
             impl core::ops::Deref for IDStorageQueue1 {
                 type Target = IDStorageQueue;
@@ -1854,7 +1854,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageQueue2,
                 IDStorageQueue2_Vtbl,
-                0xb1c9d643_3a49_44a2_b46f_653649470d18
+                0xB1C9D643_3A49_44A2_B46F_653649470D18
             );
             impl core::ops::Deref for IDStorageQueue2 {
                 type Target = IDStorageQueue1;
@@ -1930,7 +1930,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageQueue3,
                 IDStorageQueue3_Vtbl,
-                0xdeb54c52_eca8_46b3_82a7_031b72262653
+                0xDEB54C52_ECA8_46B3_82A7_031B72262653
             );
             impl core::ops::Deref for IDStorageQueue3 {
                 type Target = IDStorageQueue2;
@@ -2032,7 +2032,7 @@ pub mod Microsoft {
             windows_core::imp::define_interface!(
                 IDStorageStatusArray,
                 IDStorageStatusArray_Vtbl,
-                0x82397587_7cd5_453b_a02e_31379bd64656
+                0x82397587_7CD5_453B_A02E_31379BD64656
             );
             windows_core::imp::interface_hierarchy!(IDStorageStatusArray, windows_core::IUnknown);
             impl IDStorageStatusArray {
